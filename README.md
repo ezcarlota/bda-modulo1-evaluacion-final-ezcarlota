@@ -33,7 +33,7 @@ El objetivo principal es **practicar estructuras básicas de Python** como lista
 
 1. **Agregar cliente/a**
    - Se puede registrar una clienta/o nuevo con su nombre y correo.
-   - Evita duplicados.
+   
 
 2. **Registrar compras**
    - Cada cliente/a puede registrar varias compras.
